@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Tomi_Ionel_Lab2.Models;
+using LibraryModel.Data;
+using LibraryModel.Models;
 namespace Tomi_Ionel_Lab2.Data
 {
     public class DbInitializer

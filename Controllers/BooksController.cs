@@ -6,7 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Tomi_Ionel_Lab2.Data;
-using Tomi_Ionel_Lab2.Models;
+using LibraryModel.Models;
+using LibraryModel.Data;
 
 namespace Tomi_Ionel_Lab2.Controllers
 {

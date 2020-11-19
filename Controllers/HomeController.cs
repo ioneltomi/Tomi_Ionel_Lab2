@@ -5,10 +5,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Tomi_Ionel_Lab2.Models;
+using LibraryModel.Models;
 using Microsoft.EntityFrameworkCore;
 using Tomi_Ionel_Lab2.Data;
-using Tomi_Ionel_Lab2.Models.LibraryViewModels;
+using LibraryModel.Models.LibraryViewModels;
+using LibraryModel.Data;
 
 namespace Tomi_Ionel_Lab2.Controllers
 {

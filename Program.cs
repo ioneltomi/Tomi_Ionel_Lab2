@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Tomi_Ionel_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Tomi_Ionel_Lab2
 {
